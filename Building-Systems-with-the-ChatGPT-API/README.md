@@ -11,4 +11,13 @@ You’ll learn how to apply these skills to practical scenarios, including class
 
 This one-hour course, taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI), builds on the lessons taught in the popular [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), though it is not a prerequisite. 
 
-Hands-on examples make each concept easy to understand. Built-in Jupyter notebooks allow you to seamlessly experiment with the code and prompts presented in the course.
+## About me
+
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
